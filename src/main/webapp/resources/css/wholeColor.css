@@ -1,0 +1,76 @@
+
+/*===================
+Color : BLUE 
+*==================*/
+.lochana-bg {
+	background: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.lochana-text-color{
+	color: var(--publicMainColor,orange);
+}
+.pagination .page-link {
+	color: var(--publicMainColor,orange);
+}
+.pagination .page-item.active .page-link {
+	background: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-color: #ffffff;
+}
+.btn-primary {
+	background: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-color: #ffffff;
+}
+.btn-primary:hover {
+	color: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #ffffff, #ffffff);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #ffffff, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	opacity: 0.75;
+}
+.text-round {
+	background: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.btn-outline-primary {
+	color: var(--publicMainColor,orange);
+	border-color: #ffffff;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+	background: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.btn-hero-primary{
+	background: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-color: #fff;
+}
+.media h5{
+	color: var(--publicMainColor,orange);
+}
+#faq2 .block-header{
+	background: var(--publicMainColor,orange);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, var(--publicMainColor,orange), var(--publicMainColor,orange)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#faq1 .block-header {
+	color: var(--publicMainColor,orange);
+}
+.widget-title{
+	color: var(--publicMainColor,orange);
+}
+.pricing-h2{
+	color: var(--publicMainColor,orange);
+}
+.pagination .page-link [class^="ti-"], [class*=" ti-"] {
+	color: var(--publicMainColor,orange);
+}
+.block-title-new [class^="ti-"], .block-title-new [class*=" ti-"]{
+	color: var(--publicMainColor,orange);
+}
